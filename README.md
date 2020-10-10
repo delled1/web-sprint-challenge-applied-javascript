@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+Document Object Model. It's a programming interface for HTML and XML documents. Represents the document as nodes and objects. Programs can change the document structure, style, content
+
 2. What is an event?
+
+Actions or occurrences that happen in the system, there can be responses if desired
 
 3. What is an event listener?
 
+Procedure of function in the program that is waiting for the specific event to occur
+
 4. Why would we convert a NodeList into an Array?
 
+To use array methods
+
 5. What is a component?
+
+Reusable part of our code, help makes the code D.R.Y
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
@@ -84,6 +94,6 @@ After finishing your required elements, you can push your work further. These go
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` branch (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` branch (student's Repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete after receiving your pull-request
