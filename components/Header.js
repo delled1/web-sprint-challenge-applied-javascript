@@ -21,6 +21,10 @@ function Header() {
   dateSpan.classList.add("date");
   tempSpan.classList.add("temp");
 
+  dateSpan.textContent = "MARCH 28, 2020";
+  title.textContent = "Lambda Times";
+  tempSpan.textContent = "98°";
+
   headerDiv.appendChild(dateSpan);
   headerDiv.appendChild(title);
   headerDiv.appendChild(tempSpan);
